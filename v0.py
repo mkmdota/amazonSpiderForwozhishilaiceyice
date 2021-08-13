@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Time  : 2021/8/9 0:31
-# @Author: Bolvar Fordragon
-# @File  : v0.py
+# @Author: mkmdota
 # 放一些固定不改的函数
 
 
