@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Time  : 2021/8/9 17:02
-# @Author: Bolvar Fordragon
-# @File  : v4.1.py
+# @Author: mkmdota
 import time, os, json
 from v0 import preparation, loadDataFromJson, equal_distribution_list
 from bs4 import BeautifulSoup
